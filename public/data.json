@@ -1,0 +1,362 @@
+[
+    {
+        "register_number": 2021242001,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC9999",
+                "grade": "D",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC9999",
+                "grade": "F",
+                "credits": 3
+            }
+        ],
+        "password": "2001"
+    },
+    {
+        "register_number": 2021242002,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC5859",
+                "grade": "F",
+                "credits": 2
+            },
+            {
+                "semester": "2",
+                "course_code": "XC9999",
+                "grade": "C",
+                "credits": 4
+            }
+        ],
+        "password": "2002"
+    },
+    {
+        "register_number": 2021242003,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC9999",
+                "grade": "D",
+                "credits": 3
+            },
+            {
+                "semester": "2",
+                "course_code": "XC1234",
+                "grade": "A",
+                "credits": 5
+            }
+        ],
+        "password": "2003"
+    },
+    {
+        "register_number": 2021242004,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC9999",
+                "grade": "D",
+                "credits": 3
+            },
+            {
+                "semester": "2",
+                "course_code": "XC1234",
+                "grade": "D",
+                "credits": 2
+            }
+        ],
+        "password": "2004"
+    },
+    {
+        "register_number": 2021242005,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC5859",
+                "grade": "B",
+                "credits": 3
+            },
+            {
+                "semester": "2",
+                "course_code": "XC1234",
+                "grade": "C",
+                "credits": 2
+            }
+        ],
+        "password": "2005"
+    },
+    {
+        "register_number": 2021242006,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC5859",
+                "grade": "D",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC5859",
+                "grade": "D",
+                "credits": 4
+            }
+        ],
+        "password": "2006"
+    },
+    {
+        "register_number": 2021242007,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC1234",
+                "grade": "B",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC5859",
+                "grade": "A",
+                "credits": 3
+            }
+        ],
+        "password": "2007"
+    },
+    {
+        "register_number": 2021242008,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC9999",
+                "grade": "F",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC5859",
+                "grade": "D",
+                "credits": 2
+            }
+        ],
+        "password": "2008"
+    },
+    {
+        "register_number": 2021242009,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC5859",
+                "grade": "D",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC5859",
+                "grade": "B",
+                "credits": 2
+            }
+        ],
+        "password": "2009"
+    },
+    {
+        "register_number": 2021242010,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC1234",
+                "grade": "D",
+                "credits": 3
+            },
+            {
+                "semester": "2",
+                "course_code": "XC9999",
+                "grade": "F",
+                "credits": 4
+            }
+        ],
+        "password": "2010"
+    },
+    {
+        "register_number": 2021242011,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC1234",
+                "grade": "F",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC9999",
+                "grade": "B",
+                "credits": 3
+            }
+        ],
+        "password": "2011"
+    },
+    {
+        "register_number": 2021242012,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC9999",
+                "grade": "B",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC5859",
+                "grade": "F",
+                "credits": 4
+            }
+        ],
+        "password": "2012"
+    },
+    {
+        "register_number": 2021242013,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC5859",
+                "grade": "F",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC5859",
+                "grade": "F",
+                "credits": 4
+            }
+        ],
+        "password": "2013"
+    },
+    {
+        "register_number": 2021242014,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC5859",
+                "grade": "A",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC9999",
+                "grade": "D",
+                "credits": 4
+            }
+        ],
+        "password": "2014"
+    },
+    {
+        "register_number": 2021242015,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC1234",
+                "grade": "C",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC1234",
+                "grade": "B",
+                "credits": 4
+            }
+        ],
+        "password": "2015"
+    },
+    {
+        "register_number": 2021242016,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC5859",
+                "grade": "F",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC1234",
+                "grade": "B",
+                "credits": 4
+            }
+        ],
+        "password": "2016"
+    },
+    {
+        "register_number": 2021242017,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC5859",
+                "grade": "C",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC1234",
+                "grade": "B",
+                "credits": 4
+            }
+        ],
+        "password": "2017"
+    },
+    {
+        "register_number": 2021242018,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC5859",
+                "grade": "D",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC9999",
+                "grade": "C",
+                "credits": 4
+            }
+        ],
+        "password": "2018"
+    },
+    {
+        "register_number": 2021242019,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC5859",
+                "grade": "B",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC9999",
+                "grade": "B",
+                "credits": 4
+            }
+        ],
+        "password": "2019"
+    },
+    {
+        "register_number": 2021242020,
+        "semesters": [
+            {
+                "semester": "1",
+                "course_code": "XC9999",
+                "grade": "D",
+                "credits": 4
+            },
+            {
+                "semester": "2",
+                "course_code": "XC9999",
+                "grade": "C",
+                "credits": 4
+            }
+        ],
+        "password": "2020"
+    }
+]
